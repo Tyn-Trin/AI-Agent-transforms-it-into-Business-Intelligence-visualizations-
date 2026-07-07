@@ -48,7 +48,7 @@ Sequnce Diagram Chat Flow
 | AI Reasoning | Anthropic Claude (Tool Use / Function Calling) |
 | แหล่งข้อมูล ERP | Odoo JSON-RPC (ดึงแบบ Real-time ไม่ต้องเก็บข้อมูลซ้ำ) |
 | แสดงผลกราฟ | Plotly (แสดงในหน้าเว็บแชท) |
-| Database | PostgreSQL + SQLAlchemy + Alembic |
+| Database | PostgreSQL|
 | Knowledge Base | ChromaDB (RAG สำหรับเอกสาร/นโยบายบริษัท) |
 
 ---
