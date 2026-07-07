@@ -4,7 +4,8 @@
 
 ไม่ต้องรอรายงาน ไม่ต้องไล่หาข้อมูลในเมนู Odoo เอง — แค่ถาม แล้วให้ AI ตัดสินใจว่าจะดึงข้อมูลไหนมา และแสดงผลแบบไหนให้เหมาะสม
 
-<img width="1920" height="919" alt="image" src="https://github.com/user-attachments/assets/dddecde5-63b3-4f35-9e62-2a0d608db365" />
+<img width="1920" height="919" alt="image" src="https://github.com/user-attachments/assets/29012ca4-13b3-4e55-b74d-6bf4c1831b21" />
+
 
 
 ## ปัญหาที่เจอ
@@ -65,10 +66,20 @@ Sequnce Diagram Chat Flow
 
 ---
 
+## Screenshots
+
+<img width="1920" height="919" alt="image" src="https://github.com/user-attachments/assets/00f1f238-d0a2-4534-87c8-faf57ec995ff" />
+
+
+<img width="1920" height="919" alt="image" src="https://github.com/user-attachments/assets/dddecde5-63b3-4f35-9e62-2a0d608db365" />
+
+---
+
 ## Roadmap
 
 - [ ] รองรับคำถามของ Module Sale ได้อย่างถูกต้อง
 - [ ] รองรับการแสดงผลแบบ Business intelligence
 ---
+
 
 
